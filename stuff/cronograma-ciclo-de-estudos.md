@@ -1,4 +1,6 @@
-# Cronograma de estudos
+# Cronograma - Ciclo de estudos
+
+O cronograma baseado em ciclo de estudos é um cronograma flexível feita para ter uma rotina mais adpavel as volatividades do dia-dia. Esse cronograma é baseado em blocos de 1h. Cada bloco é calculado de acordo com os níveis de prioridade de cada matéria. 
 
 ## Cronograma
 
@@ -9,7 +11,9 @@
 * Conhecimentos Bancários: 1
 * Atualidades do Mercado Financeiro: 1
 
-## Calculo usado a criação do cronograma
+> **ps:** Retirei 2h de T.I para adicionar em Matemática e Probabilidade e Estatística.
+
+## Calculo usado na criação do cronograma
 
 ### Soma total dos pontos
 
