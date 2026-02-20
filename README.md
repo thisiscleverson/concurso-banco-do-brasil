@@ -6,7 +6,6 @@ Este repositório contém todo material da minha preparação para o concurso do
 
 - [provas](./provas): Provas antigas.
 - [material](./material): PDFs, Videos, lista de exercícios.
-- [notas](./notas): Anotações sobre o conteúdo estudado.
 - [stuff](./stuff): Cronogramas, Feeds RSS & links.
 
 ## Conteúdos da prova
