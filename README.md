@@ -15,22 +15,22 @@ Este repositório contém todo material da minha preparação para o concurso do
 	- 35 questões
 
 - Conhecimentos Bancários:
-  – 5 questões
+  - 5 questões
   
 - Probabilidade e Estatística: 
-  – 5 questões
+  - 5 questões
 
 - Língua Portuguesa:
-  – 10 questões
+  - 10 questões
 
 - Matemática: 
-  – 5 questões
+  - 5 questões
 
 - Inglês:
-  – 5 questões
+  - 5 questões
 
 - Atualidades do Mercado Financeiro: 
-  – 5 questões
+  - 5 questões
   
 ## Prioridades
 
@@ -43,13 +43,13 @@ Prioridade de conteúdos organizada por quantidade de pontuação.
   - 52,5 pontos
   
 * Língua Portuguesa:
-	– 10 questões
+	- 10 questões
 	- 15 pontos
   
 ### PRIORIDADE ALTA:
 
 * Matemática:
-	– 5 questões
+	- 5 questões
 	- 7,5
   
 * Probabilidade e Estatística:
@@ -65,14 +65,14 @@ Prioridade de conteúdos organizada por quantidade de pontuação.
 ### PRIORIDADE BAIXA:
 
 * Inglês:
-  – 5 questões
+  - 5 questões
   - 5 pontos
 
 * Atualidades do Mercado Financeiro:
-  – 5 questões
+  - 5 questões
   - 5 pontos
 
 ## Cronogramas
 
-* [Cronograma ciclico](./stuff/cronograma.md)
-* [Cronograma - conteúdos](#)
+* [Cronograma - ciclos de estudos](./stuff/cronograma-ciclico-de-estudo.md)
+* [Cronograma - assuntos](./stuff/cronograma-assuntos.md)
